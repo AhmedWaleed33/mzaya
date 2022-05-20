@@ -1,0 +1,95 @@
+
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    }
+    body{
+      background-image: url("img/img0.jpg");
+      background-color: #cccccc;
+      background-repeat: repeat;
+
+    }
+
+    header{
+    padding: 0;
+    margin: 0 auto;
+    width: 100%;
+    height: 80px;
+    background-color: #2c3e50;
+    position: fixed
+    }
+    #logo{
+    float: right;
+    }
+
+    
+    nav ul{
+      list-style: none;
+      float: left;
+      height: 80px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 45px;
+
+
+    }
+    nav ul li{
+      padding: 0 15px;
+
+    }
+    nav ul li a{
+      text-decoration: none;
+      color: rgb(255, 255, 255);
+      font-size: 17px;
+      font-family: monospace;
+      
+    }
+    nav ul li a:hover{
+      background-color: #cccccc;
+      padding: 30px 10px;
+      color: black;
+    }
+
+    .text{
+      padding-right: 60px;
+    }
+    table{
+      width: 100%;
+
+    }
+    .login{
+      float: left;
+      padding: 5rem 0 0 5rem;
+    }
+    .form5{
+      padding: 5rem 5rem 0 0;
+      font-size: xx-large;
+
+    }
+    .text2{
+      padding-right: 60px;
+    }
+    .first{
+      padding-top: 80px;
+    }
+    .img57{
+      padding-right: 5rem;
+      padding-top: 80px;
+      float: right;
+    }
+    .img52{
+      float: left;
+    }
+    .num{
+      padding: 40rem 7rem;
+      
+    }
+    .qr{
+      float: left;
+      padding: 30rem 0 0 0;
+    }
+    
+
